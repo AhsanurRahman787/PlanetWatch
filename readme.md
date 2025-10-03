@@ -42,7 +42,7 @@ PlanetWatch is a lightweight, Python-based application optimized for rapid deplo
 * **Core Logic / Backend:** Python
 * **Web Framework:** Flask
 * **AI/LLM Integration:** LangChain (used to build the Policy AI Agent)
-* **Frontend/Visualization:** Node.js (used for handling front-end assets/rendering)
+* **Frontend/Visualization:** Three.js
 * **Database:** None (State is managed in memory or flat files, ideal for hackathons)
 
 ### Prerequisites
@@ -85,7 +85,7 @@ Project Description Link:https://docs.google.com/document/d/15WHj6kVLZnyir0lzFmq
 
 Clarification:
 
-We would like to clarify that during the development of AstroWatch, our team utilized various AI-powered tools such as ChatGPT, Claude, Kimi K2, and Qwen to assist in ideation, technical refinement, and content generation. These tools were not used to replace human creativity or effort, but rather to accelerate development, improve efficiency, and inspire innovation in a short competition timeframe.
+We would like to clarify that during the development of PlanetWatch, our team utilized various AI-powered tools such as ChatGPT, Claude, Kimi K2, and Qwen to assist in ideation, technical refinement, and content generation. These tools were not used to replace human creativity or effort, but rather to accelerate development, improve efficiency, and inspire innovation in a short competition timeframe.
 We believe that leveraging AI aligns with the spirit of the NASA Space Apps Challenge, which encourages participants to explore cutting-edge technology for solving real-world problems. Just as scientists and engineers rely on advanced instruments to enhance their research, we used AI as a supportive tool to amplify our problem-solving capabilities.
 Our vision, design decisions, and implementation remain entirely our own—AI only acted as a compass, not the destination. We hope the judges will see this as an innovative approach to harnessing modern tools in service of planetary defense and education, rather than as a shortcut.
 
