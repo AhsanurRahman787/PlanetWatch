@@ -80,3 +80,6 @@ PlanetWatch grounds its simulations in real space and seismic data using the fol
 * **Approximate Positions of the Planets (NASA Resource):** Used for understanding orbital mechanics and simulating the solar system visualization.
 * **Near-Earth Comets - Orbital Elements API:** Supplements our orbital modeling capabilities.
 
+
+***Bring your own AI api key to run the program***
+
