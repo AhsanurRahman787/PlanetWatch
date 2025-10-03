@@ -81,5 +81,15 @@ PlanetWatch grounds its simulations in real space and seismic data using the fol
 * **Near-Earth Comets - Orbital Elements API:** Supplements our orbital modeling capabilities.
 
 
-***Bring your own AI api key to run the program***
+Project Description Link:https://docs.google.com/document/d/15WHj6kVLZnyir0lzFmqQw6rW5b-pV2aqFLj7ouVGNmA/edit?usp=sharing
+
+Clarification:
+
+We would like to clarify that during the development of AstroWatch, our team utilized various AI-powered tools such as ChatGPT, Claude, Kimi K2, and Qwen to assist in ideation, technical refinement, and content generation. These tools were not used to replace human creativity or effort, but rather to accelerate development, improve efficiency, and inspire innovation in a short competition timeframe.
+We believe that leveraging AI aligns with the spirit of the NASA Space Apps Challenge, which encourages participants to explore cutting-edge technology for solving real-world problems. Just as scientists and engineers rely on advanced instruments to enhance their research, we used AI as a supportive tool to amplify our problem-solving capabilities.
+Our vision, design decisions, and implementation remain entirely our own—AI only acted as a compass, not the destination. We hope the judges will see this as an innovative approach to harnessing modern tools in service of planetary defense and education, rather than as a shortcut.
+
+so as we use AI for the AI assistant is this project therefore, you have to bring your AI API key to function the program.
+
+
 
